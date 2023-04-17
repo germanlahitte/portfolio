@@ -3,7 +3,8 @@
 - [CV  :clipboard:](#cv)
 - [Skills :ninja:](#skills)
 - [Tools :hammer_and_wrench:](#tools)
-- [Projects :warning::man_technologist::microbe::no_entry_sign:](#projects)
+- [Projects :bulb:](#projects)
+- [Examples of my work :warning::man_technologist::microbe::no_entry_sign:](#examples-of-my-work)
   * [Test cases and work in Testlink](#test-cases-and-work-in-testlink)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
@@ -24,7 +25,7 @@ You can download my CV [HERE](https://drive.google.com/file/d/13fYO_raxc1SdxWczm
 
 ## Skills
 
-You can find examples of the described skills in the [Projects](#projects) section.
+You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
 __Manual testing__
   * Conducted manual testing for multiple web and applications, identifying defects and reporting them to development teams
@@ -106,9 +107,7 @@ __Mind maps & diagrams__
 ### Colabry Encyclopedia (IDforIdeas)
 
 
-
-
-
+## Examples of my work
 
 ### Test cases and work in TestLink
 
