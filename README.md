@@ -3,12 +3,12 @@
 - [CV  :clipboard:](#cv)
 - [Skills :ninja:](#skills)
 - [Tools :hammer_and_wrench:](#tools)
-- [Courses :disguised_face:	](#courses)
 - [Projects :warning::man_technologist::microbe::no_entry_sign:](#projects)
   * [Test cases and work in Testlink](#test-cases-and-work-in-testlink)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
+- [Courses :disguised_face:	](#courses)
 - [Books I have read :books:](#books-i-have-read)
 
 ## About me
