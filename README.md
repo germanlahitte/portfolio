@@ -13,13 +13,11 @@
 
 ## About me
 
-As a lawyer with a diverse background, I've had the opportunity to work in various countries such as Australia, New Zealand, Germany, and now I reside in Spain. I was born and raised in Argentina and hold Italian citizenship, giving me a unique perspective on different cultures.
+As a lawyer with a diverse background, I have had the opportunity to work in various countries such as Australia, New Zealand, Germany, and now I reside in Spain. I was born and raised in Argentina and hold Italian citizenship, giving me a unique perspective on different cultures.
 
-I am currently pursuing a career change by studying manual testing. I believe that this shift will allow me to leverage my analytical skills and attention to detail to ensure the quality of software products. I am excited about the prospect of being able to contribute to the development of high-quality software and to work alongside other professionals in the field. 
+Throughout my career, I have demonstrated strong leadership and communication skills, having worked in leading positions supervising and managing teams in multicultural environments. My advanced level of English allows me to communicate fluently with colleagues and clients from around the world.
 
-Throughout my career, I have demonstrated strong leadership and communication skills, and have worked effectively in multicultural environments. My advanced level of English allows me to communicate fluently with colleagues and clients from around the world.
-
-I am always eager to learn and adapt to new challenges, and am excited about the prospect of applying my skills and experiences to new areas. If you'd like to connect or learn more about me, please don't hesitate to reach out.
+I am excited about the prospect of applying my skills and experiences to new areas and adding value to software development teams. I am always eager to learn and adapt to new challenges, and I am confident that my analytical skills and attention to detail will ensure the quality of software products. If you'd like to connect or learn more about me, please don't hesitate to reach out.
 
 ## CV
 You can download my CV [HERE](https://drive.google.com/file/d/13fYO_raxc1SdxWczmOmGgKjz1-rgxriW/view?usp=share_link).
