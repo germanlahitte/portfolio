@@ -22,7 +22,7 @@ Throughout my career, I have demonstrated strong leadership and communication sk
 I am always eager to learn and adapt to new challenges, and am excited about the prospect of applying my skills and experiences to new areas. If you'd like to connect or learn more about me, please don't hesitate to reach out.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/13fYO_raxc1SdxWczmOmGgKjz1-rgxriW/view?usp=share_link).
+You can download my CV [HERE](https://drive.google.com/file/d/13fYO_raxc1SdxWczmOmGgKjz1-rgxriW/view?usp=share_link).
 
 ## Skills
 
@@ -34,8 +34,8 @@ __Manual testing__
   * Collaborated with cross-functional teams to ensure that all relevant stakeholders were kept informed of testing progress and that issues were resolved     in a timely and effective manner
 
 __Test analysis & design__
-  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
+  * Familiar with functional decomposition of products, creating state transition diagrams, writing use cases
+  * Able to apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
 
 __Exploratory testing__
   * Designed and executed exploratory tests, providing feedback to stakeholders, including a project with uTest
@@ -89,7 +89,11 @@ __Postman__
   * Knowledgeable in REST protocol, HTTP methods  such as GET, POST, PUT, and DELETE, and JSON data formats, ensuring API functionality, reliability, and     security
 
 __Browser developer tools__
-
+  * 
+ 
+ __Slack__
+  * Familiar with the interface, sending messages, sharing files, and joining channels and groups.
+  * Proficient in navigating the Slack interface, including finding and using search functionality and managing personal settings and preferences.
 
 __Mind maps & diagrams__
   * Utilized mindmaps to visually organize and plan testing strategies, ensuring comprehensive coverage of testing scenarios, to enhance team collaboration and efficiency.
