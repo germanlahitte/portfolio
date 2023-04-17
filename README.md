@@ -96,24 +96,6 @@ __Browser developer tools__
 __Mind maps & diagrams__
   * Utilized mindmaps to visually organize and plan testing strategies, ensuring comprehensive coverage of testing scenarios, to enhance team collaboration and efficiency.
 
-## Courses
-
-__Robot Framework Test Automation, Levels 1-4__  
-*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
-An intensive course in test automation with Robot Framework.  
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
-*Level 2-4 in progress*
-
-__The 1st Online Institute of Software Testing__  
-*online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
-
-__Onboarding to Testing · Jedi Point__  
-*online course by Quality Lab, Moscow, Russia*  
-An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
-[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
-
 
 ## Projects
 
@@ -158,6 +140,24 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 
 * Generating combinations for the form consisting of 3 fields, where possible values of the one field depend on the values of another field. See [the script for MS PICT](https://drive.google.com/file/d/1nRuFkKA2pXFHHFwfph0SuXq-2p22VLtD/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1bKWMw8rqOy477JpRgfS8-koDd2jm3MEv/view?usp=sharing).
 * Generating combinations for the form consisting of 5 fields. See [the script for MS PICT](https://drive.google.com/file/d/1jG72-v808dXlvSxcC6EYkiaZNbZZTeIB/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1WlKu_FRv-kSVPPoQlL-7wz6CXqr9f2bi/view?usp=sharing).
+
+## Courses
+
+__Robot Framework Test Automation, Levels 1-4__  
+*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
+An intensive course in test automation with Robot Framework.  
+[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
+*Level 2-4 in progress*
+
+__The 1st Online Institute of Software Testing__  
+*online course by Quality Lab, Moscow, Russia*  
+A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
+[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
+
+__Onboarding to Testing · Jedi Point__  
+*online course by Quality Lab, Moscow, Russia*  
+An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
+[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
 
 ## Books I have read
 __"Introducción a las Pruebas de Sistemas de Información"__ Federico Toledo 2014 (in Spanish) - An introductory resource for students and professionals who are new to the field of software testing and provides a practical, hands-on approach to testing software. 
