@@ -26,7 +26,7 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 ## Skills
 
-You can find examples of the described skills in the [Experience](#experience) section.
+You can find examples of the described skills in the [Projects](#projects) section.
 
 __Manual testing__
   * Conducted manual testing for multiple web and applications, identifying defects and reporting them to development teams
