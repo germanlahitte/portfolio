@@ -13,13 +13,13 @@
 
 ## About me
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
+As a lawyer with a diverse background, I've had the opportunity to work in various countries such as Australia, New Zealand, Germany, and now I reside in Spain. I was born and raised in Argentina and hold Italian citizenship, giving me a unique perspective on different cultures.
 
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
+I am currently pursuing a career change by studying manual testing. I believe that this shift will allow me to leverage my analytical skills and attention to detail to ensure the quality of software products. I am excited about the prospect of being able to contribute to the development of high-quality software and to work alongside other professionals in the field. 
 
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
+Throughout my career, I have demonstrated strong leadership and communication skills, and have worked effectively in multicultural environments. My advanced level of English allows me to communicate fluently with colleagues and clients from around the world.
 
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+I am always eager to learn and adapt to new challenges, and am excited about the prospect of applying my skills and experiences to new areas. If you'd like to connect or learn more about me, please don't hesitate to reach out.
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
