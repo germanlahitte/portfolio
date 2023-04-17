@@ -1,15 +1,15 @@
 # Portfolio
-- [About me](#about-me)
-- [CV](#cv)
-- [Skills](#skills)
-- [Tools](#tools)
-- [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
+- [About me :speech_balloon:](#about-me)
+- [CV  :clipboard:](#cv)
+- [Skills :ninja:](#skills)
+- [Tools :hammer_and_wrench:](#tools)
+- [Courses :disguised_face:	](#courses)
+- [Experience :warning::man_technologist::microbe::no_entry_sign:](#experience)
   * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-- [Books I have read](#books-i-have-read)
+- [Books I have read :books:](#books-i-have-read)
 
 ## About me
 
@@ -22,65 +22,77 @@ Throughout my career, I have demonstrated strong leadership and communication sk
 I am always eager to learn and adapt to new challenges, and am excited about the prospect of applying my skills and experiences to new areas. If you'd like to connect or learn more about me, please don't hesitate to reach out.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/13fYO_raxc1SdxWczmOmGgKjz1-rgxriW/view?usp=share_link).
 
 ## Skills
 
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+You can find examples of the described skills in the [Experience](#experience) section.
 
 __Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
+  * Conducted manual testing for multiple web and applications, identifying defects and reporting them to development teams
+  * Proficient in test case design, execution, and defect tracking, utilizing various tools and methodologies
+  * Collaborated with cross-functional teams to ensure that all relevant stakeholders were kept informed of testing progress and that issues were resolved     in a timely and effective manner
 
 __Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
   * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
 
-__API testing__
-  * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
-
 __Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
+  * Designed and executed exploratory tests, providing feedback to stakeholders, including a project with uTest
+  * Utilized testing techniques such as boundary value analysis and error guessing to identify defects
+  * Collaborated with development and product teams to ensure testing aligned with project goals and results documented effectively
 
 __Test documentation__
-  * can create test cases and checklists and know how and in which situations to use them effectively
-  * able to prepare comprehensive bug reports and provide detailed session reports
+  * Developed and maintained comprehensive test plans, cases, and scripts for thorough test coverage and traceability.
+  * Collaborated with teams to ensure clear and complete testing requirements and cases, reducing ambiguity and risk.
+  * Developed and documented testing processes and best practices for consistency and efficiency across multiple projects.
+  
+__API testing__
+  * Conducted API testing using Postman, verifying input/output behavior and validating error handling and message formats for REST APIs.
+  * Knowledge of REST protocol, HTTP methods, and JSON data formats, ensuring API functionality, reliability, and security.
 
-__SQL databases__
-  * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
-  * know the difference between joins and unions and can use them in queries
+__SQL__
+  * Executed basic SQL queries in MySQL for data retrieval, manipulation, and filtering.
+  * Knowledge in SQL syntax, including SELECT, WHERE, and JOIN statements, for efficient data querying and management.
 
-__Python fundamentals__
-  * can write simple functions and algorithms
-  * know when to use for and while
-  * able to comprehend easy codes
+__JS fundamentals__
+  * Created JavaScript-based test scripts for comprehensive and efficient test coverage
+  * Knowledge in JS syntax and commonly-used libraries for effective testing
 
 ## Tools
 
-__TestRail__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
+__Trello and Notion__
+  * Managed project tasks and workflows using Trello and organized project information using Notion databases
+  * Collaborated with team members on both tools, including sharing attachments, commenting on cards/pages, and utilizing built-in communication features
+  * Customized boards and Notion pages to fit project needs, including adding labels/checklists/power-ups and interactive elements such as tables/calendars
 
 __Jira__
-  * know how to create bug reports
-  * able to create projects and track their progress
+  * Reported bugs using Jira, including documentation, reproduction, and communication with development teams
+  * Tracked bugs using Jira workflows and statuses to ensure proper resolution and testing
+  * Collaborated with cross-functional teams to accurately document bugs in Jira and provide progress updates
+  
+__Confluence__
+  * Utilized Confluence to create and maintain comprehensive documentation for testing processes, results, and procedures
+  * Manage features, such as templates, macros, and page hierarchies, to create organized and accessible documentation
+  
+__Zephyr__
+  *  Integrate Zephyr with other testing tools, such as Jira and Confluence, to streamline testing processes and ensure accurate reporting
+  *  Utilized Zephyr to create, manage, and execute test cases, ensuring comprehensive test coverage and accurate tracking of test results.
+  *  Knowledgeable in features, such as test case versioning, bulk editing, and traceability reports, to enhance testing efficiency and effectiveness
 
-__SoapUI__
+__TestLink__
+  * Test case management, ensuring efficient tracking of testing progress and coverage.
+  * Knowledge in traceability matrix and custom reporting, to streamline testing processes and improve efficiency.
+
+__Postman__
+  * Conducted API testing using Postman, verifying input/output behavior and validating error handling and message formats for REST APIs
+  * Knowledgeable in REST protocol, HTTP methods  such as GET, POST, PUT, and DELETE, and JSON data formats, ensuring API functionality, reliability, and     security
 
 __Browser developer tools__
 
-__VirtualBox__
-  * able to set up and operate virtual machines
-
-__Trello and Notion__
-  * know how to use Kanban boards and track project progress
 
 __Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
+  * Utilized mindmaps to visually organize and plan testing strategies, ensuring comprehensive coverage of testing scenarios, to enhance team collaboration and efficiency.
 
 ## Courses
 
@@ -101,9 +113,20 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 [Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
 
 
-## Examples of my work
+## Projects
 
-### Test cases and work in TestRail
+### Manual testing 
+
+### PokeAPI testing
+
+### Colabry Encyclopedia (IDforIdeas)
+
+
+
+
+
+
+### Test cases and work in TestLink
 
 - [The training webshop](http://automationpractice.com/) was used to create demo test cases
   * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
