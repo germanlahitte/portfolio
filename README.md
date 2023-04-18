@@ -88,7 +88,7 @@ __Postman__
   * Knowledgeable in REST protocol, HTTP methods  such as GET, POST, PUT, and DELETE, and JSON data formats, ensuring API functionality, reliability, and     security
 
 __Browser developer tools__
-  * 
+  * Basic understanding of browser developer tools, which allows me to effectively debug and troubleshoot issues on web applications. My knowledge of tools such as the console, inspect element, and network tab enables me to identify and diagnose issues related to JavaScript, HTML, CSS, and network requests, ensuring that web applications are functioning optimally across different browsers and devices.
  
  __Slack__
   * Familiar with the interface, sending messages, sharing files, and joining channels and groups.
@@ -101,7 +101,7 @@ __Mind maps & diagrams__
 ## Projects
 
 ### Manual testing 
-  * As a manual tester for the e-commerce website https://shop.royalcanin.com/, I performed comprehensive testing on key areas of the website, including login, homepage, product listing and detail pages, user interface, cart, and checkout. Through my testing efforts, I was able to identify and report defects, ensuring that the website was functioning optimally and providing a seamless and error-free shopping experience for customers. My testing methodology adhered to industry-standard testing practices, ensuring the highest quality of testing for the website.
+  * As a manual tester for the [Royal Canin e-commerce](https://shop.royalcanin.com/), I performed comprehensive testing on key areas of the website, including login, homepage, product listing and detail pages, user interface, cart, and checkout. Through my testing efforts, I was able to identify and report defects, ensuring that the website was functioning optimally and providing a seamless and error-free shopping experience for customers. My testing methodology adhered to industry-standard testing practices, ensuring the highest quality of testing for the website.
   
 ### PokeAPI testing
   * As a manual tester, I undertook a personal project to test the PokeAPI, a popular API that provides information about Pokemon. I created a comprehensive test suite consisting of basic requests to the API, covering various endpoints, and then automated the runs. Through my testing efforts, I was able to identify and report issues, ensuring that the API was functioning optimally and providing accurate and reliable information to developers. This project also helped me gain practical experience in API testing, improving my skills and expertise in the field.
@@ -133,7 +133,7 @@ __Mind maps & diagrams__
 * An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
 
 ### Mindmaps and diagrams
-* STLC of Royal Canin Manual Project. Check [the mindmap](https://www.mindmeister.com/map/2703971050).
+* Royal Canin Manual Testing Project [here](https://www.mindmeister.com/map/2703971050).
 * State-transition diagram of the loan application at [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the diagram](https://drive.google.com/file/d/1yr1i_gvkTDtbw-ZZF9I_o5CKQZuc2KWG/view?usp=sharing).
 * Decomposition of an online converter of text documents to PDF using actions-parameters-values. Check [the diagram](https://drive.google.com/file/d/1gbBCBGNyRJhp0DhFgFbpxrb9F2Zd5LnH/view?usp=sharing).
 * Mindmap of the interfaces of [the training webpage Enotes](https://enotes.pointschool.ruin). Check [the mindmap](https://drive.google.com/file/d/1gzv3ADI2_tm_Of0rk_gZDZ1niW50w4oc/view?usp=sharing).
