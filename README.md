@@ -101,11 +101,13 @@ __Mind maps & diagrams__
 ## Projects
 
 ### Manual testing 
-
+  * As a manual tester for the e-commerce website https://shop.royalcanin.com/, I performed comprehensive testing on key areas of the website, including login, homepage, product listing and detail pages, user interface, cart, and checkout. Through my testing efforts, I was able to identify and report defects, ensuring that the website was functioning optimally and providing a seamless and error-free shopping experience for customers. My testing methodology adhered to industry-standard testing practices, ensuring the highest quality of testing for the website.
+  
 ### PokeAPI testing
+  * As a manual tester, I undertook a personal project to test the PokeAPI, a popular API that provides information about Pokemon. I created a comprehensive test suite consisting of basic requests to the API, covering various endpoints, and then automated the runs. Through my testing efforts, I was able to identify and report issues, ensuring that the API was functioning optimally and providing accurate and reliable information to developers. This project also helped me gain practical experience in API testing, improving my skills and expertise in the field.
 
 ### Colabry Encyclopedia (IDforIdeas)
-
+  * As a member of the Quality Assurance team for a collaborative encyclopedia project, I was involved in the end-to-end software development lifecycle (SDLC). I contributed to the planning, design, development, testing, and deployment phases of the project, ensuring that the software was of high quality and met the project's objectives. I collaborated closely with other team members, including developers, project managers, and stakeholders, to identify and prioritize requirements, design test cases, execute tests, and report defects. My efforts helped ensure that the encyclopedia was reliable, functional, and met the needs of its users. This project also provided me with valuable experience in working collaboratively with cross-functional teams and following the SDLC processes.
 
 ## Examples of my work
 
@@ -141,7 +143,7 @@ __Mind maps & diagrams__
 * Generating combinations for the form consisting of 3 fields, where possible values of the one field depend on the values of another field. See [the script for MS PICT](https://drive.google.com/file/d/1nRuFkKA2pXFHHFwfph0SuXq-2p22VLtD/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1bKWMw8rqOy477JpRgfS8-koDd2jm3MEv/view?usp=sharing).
 * Generating combinations for the form consisting of 5 fields. See [the script for MS PICT](https://drive.google.com/file/d/1jG72-v808dXlvSxcC6EYkiaZNbZZTeIB/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1WlKu_FRv-kSVPPoQlL-7wz6CXqr9f2bi/view?usp=sharing).
 
-## Courses
+## Courses and Experience
 
 __Robot Framework Test Automation, Levels 1-4__  
 *online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
