@@ -151,13 +151,12 @@ An intensive course in test automation with Robot Framework.
 [Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
 *Level 2-4 in progress*
 
-__The 1st Online Institute of Software Testing__  
-*online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
+__Atlassian Funtamentals__  
+*online courses by Atlassian*  
+I am proficient in Atlassian tools including Jira, Trello, and Zephyr, having completed their fundamentals courses, and utilized them on an everyday basis while working on my presented projects. [Certificates](https://drive.google.com/drive/folders/1moy0PbUOSSMk0qT8hz4iS3XBXjz4aeSL)
 
 __QA Manual Testing from the beinning__  
-*online course by [Hema Presad]  
+*online course by Hema Presad, Udemy*  
 An introductory course to fundamentals of software testing, including software development life cycle (SDLC), software testing life cycle (STLC), testing principles, and types of manual testing techniques. [Cerificate](https://drive.google.com/drive/folders/1s08Ksn8ruho4N-wY2MDqSCPAQv9qsFa-)
 
 ## Books I have read
