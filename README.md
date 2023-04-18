@@ -9,7 +9,7 @@
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-- [Courses :disguised_face:	](#courses)
+- [Courses and Experience :disguised_face:	](#courses-and-experience)
 - [Books I have read :books:](#books-i-have-read)
 
 ## About me
@@ -147,17 +147,18 @@ __Mind maps & diagrams__
 
 __Utest__  
 UTest is the largest community of digital freelance software testers in the world.
-*Bug reports following each customer specification
-*I achived Silver Rating 🥈 in Functional Testing, Web and Mobile (Android and IOS)*
+Bug reports following each customer specification
+I achived Silver Rating 🥈 in Functional Testing, Web and Mobile (Android and IOS)*
 Constant communication with Test Team Lead and Test Engineers
-*I participated in many functional Testing Projects, Web/Mobile, for worldwide recognized  companies*
+I participated in many functional Testing Projects, Web/Mobile, for worldwide recognized  companies
+
 Google Suite, UTest Platform, Video Recording, Charles Log, Slack
 
 __Atlassian Funtamentals__  
 *online courses by Atlassian Academy*  
 I am proficient in Atlassian tools including Jira, Trello, and Zephyr, having completed their fundamentals courses, and utilized them on an everyday basis while working on my presented projects. [Certificates](https://drive.google.com/drive/folders/1moy0PbUOSSMk0qT8hz4iS3XBXjz4aeSL)
 
-__QA Manual Testing from the beinning__  
+__QA Manual Testing from the beginning__  
 *online course by Hema Presad, Udemy*  
 An introductory course to fundamentals of software testing, including software development life cycle (SDLC), software testing life cycle (STLC), testing principles, and types of manual testing techniques. [Cerificate](https://drive.google.com/drive/folders/1s08Ksn8ruho4N-wY2MDqSCPAQv9qsFa-)
 
