@@ -146,15 +146,11 @@ __Mind maps & diagrams__
 ## Courses and Experience
 
 __Utest the largest community of digital freelance software testers in the world__  
-Bug reports following each customer specification
-
-I achived Silver Rating 🥈 in Functional Testing, Web and Mobile (Android and IOS)*
-
-Constant communication with Test Team Lead and Test Engineers
-
-I participated in many functional Testing Projects, Web/Mobile, for worldwide recognized  companies
-
-Google Suite, UTest Platform, Video Recording, Charles Log, Slack
+Bug reports following each customer specification<br>
+I achieved Silver Rating 🥈 in Functional Testing, Web and Mobile (Android and macOS)*<br>
+Constant communication with Test Team Lead and Test Engineers<br>
+I participated in many functional Testing Projects, Web/Mobile, for worldwide recognized companies<br>
+Proficient in Google Suite, UTest Platform, Video Recording, Charles Log, Slack.
 
 __Atlassian Funtamentals__  
 *online courses by Atlassian Academy*  
