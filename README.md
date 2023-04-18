@@ -37,18 +37,18 @@ __Test analysis & design__
   * Able to apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
 
 __Exploratory testing__
-  * Designed and executed exploratory tests, providing feedback to stakeholders, including a project with uTest
+  * Designed and executed exploratory tests, providing feedback to stakeholders
   * Utilized testing techniques such as boundary value analysis and error guessing to identify defects
   * Collaborated with development and product teams to ensure testing aligned with project goals and results documented effectively
 
 __Test documentation__
-  * Developed and maintained comprehensive test plans, cases, and scripts for thorough test coverage and traceability.
-  * Collaborated with teams to ensure clear and complete testing requirements and cases, reducing ambiguity and risk.
-  * Developed and documented testing processes and best practices for consistency and efficiency across multiple projects.
+  * Developed and maintained comprehensive test plans, cases, and scripts for thorough test coverage and traceability
+  * Collaborated with teams to ensure clear and complete testing requirements and cases, reducing ambiguity and risk
+  * Developed and documented testing processes and best practices for consistency and efficiency across multiple projects
   
 __API testing__
-  * Conducted API testing using Postman, verifying input/output behavior and validating error handling and message formats for REST APIs.
-  * Knowledge of REST protocol, HTTP methods, and JSON data formats, ensuring API functionality, reliability, and security.
+  * Conducted API testing using Postman, verifying input/output behavior and validating error handling and message formats for REST APIs
+  * Knowledge of REST protocol, HTTP methods, and JSON data formats, ensuring API functionality, reliability, and security
 
 __SQL__
   * Executed basic SQL queries in MySQL for data retrieval, manipulation, and filtering.
@@ -123,9 +123,9 @@ __Mind maps & diagrams__
 
 ### Bug reports and work in Jira
 
-- Several bugs found on [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru) and reported:
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
-  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
+- Several bugs found on the [Royal Canin Shop web](https://shop.royalcanin.com/) and reported:
+  * Bug #1. Check [the screenshot of the bug report in Jira](https://germen.atlassian.net/browse/RC-1).
+  * Bug #2. Check [the screenshot of the bug report in Jira](https://germen.atlassian.net/browse/RC-2).
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
 * An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
 
