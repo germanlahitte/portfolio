@@ -147,7 +147,7 @@ __Mind maps & diagrams__
 
 __Utest the largest community of digital freelance software testers in the world__  
 Bug reports following each customer specification<br>
-Achieved Silver Rating 🥈 in Functional Testing, Web and Mobile (macOS and Android)*<br>
+Achieved Silver Rating 🥈 in Functional Testing, Web and Mobile (macOS and Android)<br>
 Constant communication with Test Team Lead and Test Engineers<br>
 Participated in many functional Testing Projects, Web/Mobile, for worldwide recognized companies<br>
 Google Suite, UTest Platform, Video Recording, Charles Log, Slack.
