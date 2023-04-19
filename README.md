@@ -130,7 +130,7 @@ __Mind maps & diagrams__
   * Bug #2. Check [the screenshot of the bug report in Jira](https://germen.atlassian.net/browse/RC-2).
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
   * Bug #4. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
-* An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
+* Example of a Jira project IDforIdeas. Check [here](https://drive.google.com/file/d/1mcq8vZSgrIE4bCoMzXuOkBRUZMCzACWT/view).
 
 ### Mindmaps and diagrams
 * Royal Canin Manual Testing Project [here](https://www.mindmeister.com/map/2703971050).
