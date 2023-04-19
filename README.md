@@ -154,7 +154,7 @@ Proficient in Google Suite, UTest Platform, Video Recording, Charles Log, Slack.
 
 __Atlassian Funtamentals__  
 *online courses by Atlassian Academy*  
-I am proficient in Atlassian tools including Jira, Trello, and Zephyr, having completed their fundamentals courses, and utilized them on an everyday basis while working on my presented projects. [Certificates](https://drive.google.com/drive/folders/1moy0PbUOSSMk0qT8hz4iS3XBXjz4aeSL)
+Proficient in Atlassian tools including Jira, Trello, and Zephyr, having completed their fundamentals courses, and utilized them on an everyday basis while working on my presented projects. [Certificates](https://drive.google.com/drive/folders/1moy0PbUOSSMk0qT8hz4iS3XBXjz4aeSL)
 
 __QA Manual Testing from the beginning__  
 *online course by Hema Presad, Udemy*  
