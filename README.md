@@ -153,10 +153,10 @@ Constant communication with Test Team Lead and Test Engineers<br>
 Participated in many functional Testing Projects, Web/Mobile, for worldwide recognized companies<br>
 Google Suite, UTest Platform, Video Recording, Charles Log, Slack.
 
-__Atlassian and Testlink Funtamentals__  
-*online courses by Atlassian Academy*  
+__Atlassian Suite and TestRail Academy__  
 Proficient in Atlassian tools including Jira [cert](https://drive.google.com/file/d/1Yd-g-BGwRvH-zQ0mZ9wkhKmv-vMF0c5I/view), Confluence [cert](https://drive.google.com/file/d/1r1nz5hz02bQwDmq8Hh24XQgbwqRIifCi/view), Trello, and Zephyr, having completed their fundamentals courses, and utilized them on an everyday basis while working on my presented projects.<br> 
-Fundamentals in Testlink [here](https://drive.google.com/file/d/1QuT5FTT2e0L-0L6PMGh89LhlWMEO7cSD/view)
+TestRail Fundamentals [here](https://drive.google.com/file/d/1QuT5FTT2e0L-0L6PMGh89LhlWMEO7cSD/view)<br>
+TestRail Administration & Customization [here](https://drive.google.com/file/d/1vg0LCgfLykIKKaoPIgc_YaOGqaxxJqYz/view)
 
 __QA Manual Testing from the beginning__  
 *online course by Hema Presad, Udemy*  
