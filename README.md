@@ -5,7 +5,8 @@
 - [Tools :hammer_and_wrench:](#tools)
 - [Projects :bulb:](#projects)
 - [Examples of my work :warning::man_technologist::microbe::no_entry_sign:](#examples-of-my-work)
-  * [Test cases and work in Testlink](#test-cases-and-work-in-testlink)
+  * [Scenarios and Test cases in Trello / Zephyr](#scenarios-and-test-cases-in-trello-zephyr)
+  * [Test cases Traceability and Reports in TestLink](#test-cases-traceability-and-reports-in-testlink)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
@@ -111,7 +112,7 @@ __Mind maps & diagrams__
 
 ## Examples of my work
 
-### Senarios and Test cases in Trello / Zephyr
+### Scenarios and Test cases in Trello Zephyr
 
 - [The training webshop](http://automationpractice.com/) was used to create demo test cases
   * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
@@ -124,7 +125,7 @@ __Mind maps & diagrams__
 
 
 
-### Test cases, Traceability and Reports in TestLink
+### Test cases Traceability and Reports in TestLink
 
 - [The training webshop](http://automationpractice.com/) was used to create demo test cases
   * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
