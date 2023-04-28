@@ -160,7 +160,7 @@ TestRail Administration & Customization [here](https://drive.google.com/file/d/1
 
 __QA Manual Testing from the beginning__  
 *online course by Hema Presad, Udemy*  
-An introductory course to fundamentals of software testing, including software development life cycle (SDLC), software testing life cycle (STLC), testing principles, and types of manual testing techniques. [Cerificate](https://drive.google.com/drive/folders/1s08Ksn8ruho4N-wY2MDqSCPAQv9qsFa-)
+An introductory course to fundamentals of software testing, including software development life cycle (SDLC), software testing life cycle (STLC), testing principles, and types of manual testing techniques. [Cerificate](https://drive.google.com/file/d/1uTZw7URhX83VZkQ4SqpZR7FysBUPhFfV/view?usp=share_link)
 
 __IDforIdeas Project__
 
