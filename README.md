@@ -5,7 +5,7 @@
 - [Tools :hammer_and_wrench:](#tools)
 - [Projects :bulb:](#projects)
 - [Examples of my work :warning::man_technologist::microbe::no_entry_sign:](#examples-of-my-work)
-  * [Scenarios and Test cases in Trello / Zephyr](#scenarios-and-test-cases-in-trello-zephyr)
+  * [Scenarios and Test cases in Trello / Zephyr](#scenarios-and-test-cases-in-trello--zephyr)
   * [Test cases Traceability and Reports in TestLink](#test-cases-traceability-and-reports-in-testlink)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
@@ -29,12 +29,12 @@ You can download my CV [HERE](https://drive.google.com/file/d/13fYO_raxc1SdxWczm
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
 __Manual testing__
-  * Conducted manual testing for multiple web and applications, identifying defects and reporting them to development teams
+  * Conducted manual testing for multiple web and applications, identifying defects and reporting to development teams
   * Proficient in test case design, execution, and defect tracking, utilizing various tools and methodologies
   * Collaborated with cross-functional teams to ensure that all relevant stakeholders were kept informed of testing progress and that issues were resolved     in a timely and effective manner
 
 __Test analysis & design__
-  * Familiar with functional decomposition of products, creating state transition diagrams, writing use cases
+  * Familiar with functional decomposition of products, creating scenarios, writing use cases
   * Able to apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
 
 __Exploratory testing__
@@ -43,21 +43,16 @@ __Exploratory testing__
   * Collaborated with development and product teams to ensure testing aligned with project goals and results documented effectively
 
 __Test documentation__
-  * Developed and maintained comprehensive test plans, cases, and scripts for thorough test coverage and traceability
+  * Developed and maintained comprehensive test plans and cases for thorough test coverage and traceability
   * Collaborated with teams to ensure clear and complete testing requirements and cases, reducing ambiguity and risk
-  * Developed and documented testing processes and best practices for consistency and efficiency across multiple projects
   
 __API testing__
-  * Conducted API testing using Postman, verifying input/output behavior and validating error handling and message formats for REST APIs
+  * Conducted manual API testing using Postman, verifying input/output behavior and validating error handling and message formats for REST APIs
   * Knowledge of REST protocol, HTTP methods, and JSON data formats, ensuring API functionality, reliability, and security
 
 __SQL__
   * Executed basic SQL queries in MySQL for data retrieval, manipulation, and filtering.
   * Knowledge in SQL syntax, including SELECT, WHERE, and JOIN statements, for efficient data querying and management.
-
-__JS fundamentals__
-  * Created JavaScript-based test scripts for comprehensive and efficient test coverage
-  * Knowledge in JS syntax and commonly-used libraries for effective testing
 
 ## Tools
 
@@ -108,22 +103,14 @@ __Mind maps & diagrams__
   * As a manual tester, I undertook a personal project to test the PokeAPI, a popular API that provides information about Pokemon. I created a comprehensive test suite consisting of basic requests to the API, covering various endpoints, and then automated the runs. Through my testing efforts, I was able to identify and report issues, ensuring that the API was functioning optimally and providing accurate and reliable information to developers. This project also helped me gain practical experience in API testing, improving my skills and expertise in the field.
 
 ### Colabry Encyclopedia (IDforIdeas)
-  * As a member of the Quality Assurance team for a collaborative encyclopedia project, I was involved in the end-to-end software development lifecycle (SDLC). I contributed to the planning, design, development, testing, and deployment phases of the project, ensuring that the software was of high quality and met the project's objectives. I collaborated closely with other team members, including developers, project managers, and stakeholders, to identify and prioritize requirements, design test cases, execute tests, and report defects. My efforts helped ensure that the encyclopedia was reliable, functional, and met the needs of its users. This project also provided me with valuable experience in working collaboratively with cross-functional teams and following the SDLC processes.
+  * As a member of the Quality Assurance team for a collaborative encyclopedia project, I was involved in the end-to-end software development lifecycle (SDLC). I contributed to the planning, design, development, testing, and deployment phases of the project, ensuring that the software was of high quality and met the projects objectives. I collaborated closely with other team members, including developers, project managers, and stakeholders, to identify and prioritize requirements, design test cases, execute tests, and report defects. My efforts helped ensure that the encyclopedia was reliable, functional, and met the needs of its users. This project also provided me with valuable experience in working collaboratively with cross-functional teams and following the SDLC processes.
 
 ## Examples of my work
 
-### Scenarios and Test cases in Trello Zephyr
+### Scenarios and Test cases in Trello / Zephyr
 
-- [The training webshop](http://automationpractice.com/) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
-
-- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
-
-
+  * Test Scenarios, exploratory sessions and OOS in Trello [here](https://drive.google.com/file/d/1XM1i-ir84A7UZDbei6AhDOArmcrJ-zq7/view)
+  * Test Cases in Zephyr for Registration and Login for diferent OS and Browsers [here](https://drive.google.com/file/d/1O5H1HVpcFuLeHjaUZBKAQC9WqET2Yiq_/view)
 
 ### Test cases Traceability and Reports in TestLink
 
@@ -140,23 +127,19 @@ __Mind maps & diagrams__
 ### Bug reports and work in Jira
 
 - Several bugs found on the [Royal Canin Shop web](https://shop.royalcanin.com/) and reported:
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://germen.atlassian.net/browse/RC-1).
-  * Bug #2. Check [the screenshot of the bug report in Jira](https://germen.atlassian.net/browse/RC-2).
-  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
-  * Bug #4. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
+  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1b8tccr5cBuWg7VIj2iXsWb34IAQFxGUe/view).
+  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1lfob2S_4zg_MUGOP6zXI3okA4b8t6Ke9/view).
+  * Bug #3. Check [the screenshot of the bug report in Jira]().
+  * Bug #4. Check [the screenshot of the bug report in Jira]().
 * Example of a Jira project IDforIdeas. Check [here](https://drive.google.com/file/d/1mcq8vZSgrIE4bCoMzXuOkBRUZMCzACWT/view).
 
 ### Mindmaps and diagrams
 * Diagrama Royal Canin Manual Testing Project [here](https://drive.google.com/file/d/1-MBgDFDUK0ScQJP3rkEewAh9vlzRaZcP/view).
 * Tasks Mindmap Royal Canin Manual Testing Project [here]() 
-* State-transition diagram of the loan application at [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the diagram](https://drive.google.com/file/d/1yr1i_gvkTDtbw-ZZF9I_o5CKQZuc2KWG/view?usp=sharing).
-* Decomposition of an online converter of text documents to PDF using actions-parameters-values. Check [the diagram](https://drive.google.com/file/d/1gbBCBGNyRJhp0DhFgFbpxrb9F2Zd5LnH/view?usp=sharing).
-* Mindmap of the interfaces of [the training webpage Enotes](https://enotes.pointschool.ruin). Check [the mindmap](https://drive.google.com/file/d/1gzv3ADI2_tm_Of0rk_gZDZ1niW50w4oc/view?usp=sharing).
 
-### Scripts for PICT (pairwise testing)
+### Postman API Manual Testing
 
-* Generating combinations for the form consisting of 3 fields, where possible values of the one field depend on the values of another field. See [the script for MS PICT](https://drive.google.com/file/d/1nRuFkKA2pXFHHFwfph0SuXq-2p22VLtD/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1bKWMw8rqOy477JpRgfS8-koDd2jm3MEv/view?usp=sharing).
-* Generating combinations for the form consisting of 5 fields. See [the script for MS PICT](https://drive.google.com/file/d/1jG72-v808dXlvSxcC6EYkiaZNbZZTeIB/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1WlKu_FRv-kSVPPoQlL-7wz6CXqr9f2bi/view?usp=sharing).
+* Generating combinations for the form consisting of 3 fields, where possible values of the one field depend on the values of another field. See [the script for MS PICT]() and [the script for MS PICT]()
 
 ## Courses and Experience
 
