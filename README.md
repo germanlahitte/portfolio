@@ -9,7 +9,6 @@
   * [Test cases Traceability and Reports in TestLink](#test-cases-traceability-and-reports-in-testlink)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
 - [Courses and Experience :disguised_face:	](#courses-and-experience)
 - [Books I have read :books:](#books-i-have-read)
 
