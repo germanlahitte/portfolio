@@ -82,9 +82,6 @@ __TestLink__
 __Postman__
   * Conducted API testing using Postman, verifying input/output behavior and validating error handling and message formats for REST APIs
   * Knowledgeable in REST protocol, HTTP methods  such as GET, POST, PUT, and DELETE, and JSON data formats, ensuring API functionality, reliability, and     security
-
-__Browser developer tools__
-  * Basic understanding of browser developer tools, which allows me to effectively debug and troubleshoot issues on web applications. My knowledge of tools such as the console, inspect element, and network tab enables me to identify and diagnose issues related to JavaScript, HTML, CSS, and network requests, ensuring that web applications are functioning optimally across different browsers and devices.
  
  __Slack__
   * Familiar with the interface, sending messages, sharing files, and joining channels and groups.
