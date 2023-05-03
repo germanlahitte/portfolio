@@ -107,6 +107,8 @@ __Mind maps & diagrams__
 
 ## Examples of my work
 
+### Manual Project Overview in [Notion](https://lush-smoke-293.notion.site/RC-Web-Testing-Overview-46152ad8351c47e691098be4c05e85bd) 
+
 ### Scenarios and Test cases in Trello / Zephyr
 
   * Test Scenarios, exploratory sessions and OOS in Trello [here](https://drive.google.com/file/d/1XM1i-ir84A7UZDbei6AhDOArmcrJ-zq7/view)
