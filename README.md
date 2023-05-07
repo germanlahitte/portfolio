@@ -1,4 +1,4 @@
-# Portfolio MT :raising_hand_man:
+# Portfolio GL :raising_hand_man:
 - [About me :speech_balloon:](#about-me)
 - [CV  :clipboard:](#cv)
 - [Skills :ninja:](#skills)
