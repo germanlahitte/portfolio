@@ -149,7 +149,7 @@ Participated in many functional Testing Projects, Web/Mobile, for worldwide reco
 Google Suite, UTest Platform, Video Recording, Charles Log, Slack.
 
 __Atlassian Suite and TestRail Academy__  
-Proficient in Atlassian tools including Jira [cert](https://drive.google.com/file/d/1Yd-g-BGwRvH-zQ0mZ9wkhKmv-vMF0c5I/view), Confluence [cert](https://drive.google.com/file/d/1r1nz5hz02bQwDmq8Hh24XQgbwqRIifCi/view), Trello, and Zephyr, having completed their fundamentals courses, and utilized them on an everyday basis while working on my presented projects.<br> 
+Proficient in Atlassian tools including Jira [cert](https://drive.google.com/file/d/1DlfKoTd1jj5qf_o_LNAErVsb70W7xHuG/view), Confluence [cert](https://drive.google.com/file/d/1ro6l6KbUBbLvysSjqZyUB0WKngc0m5yj/view), Trello, and Zephyr, having completed their fundamentals courses, and utilized them on an everyday basis while working on my presented projects.<br> 
 TestRail Fundamentals [here](https://drive.google.com/file/d/1QuT5FTT2e0L-0L6PMGh89LhlWMEO7cSD/view)<br>
 TestRail Administration & Customization [here](https://drive.google.com/file/d/1vg0LCgfLykIKKaoPIgc_YaOGqaxxJqYz/view)
 
