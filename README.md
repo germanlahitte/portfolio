@@ -14,11 +14,7 @@
 
 ## About me
 
-As a lawyer with a diverse background, I have had the opportunity to work in various countries such as Australia, New Zealand, Germany, and now I reside in Spain. I was born and raised in Argentina and hold Italian citizenship, giving me a unique perspective on different cultures.
-
-Throughout my career, I have demonstrated strong leadership and communication skills, having worked in leading positions supervising and managing teams in multicultural environments. My advanced level of English allows me to communicate fluently with colleagues and clients from around the world.
-
-I am excited about the prospect of applying my skills and experiences to new areas and adding value to software development teams. I am always eager to learn and adapt to new challenges, and I am confident that my analytical skills and attention to detail will ensure the quality of software products. If you'd like to connect or learn more about me, please don't hesitate to reach out.
+My technical training has fueled my passion for optimizing processes and paying close attention to detail. I am always eager to understand how things work, whether it's a complex system or a simple task. This curiosity drives me to continually improve my skills and apply my knowledge to help my team and organization achieve success.
 
 ## CV
 You can download my CV [HERE](https://drive.google.com/file/d/13fYO_raxc1SdxWczmOmGgKjz1-rgxriW/view?usp=share_link).
@@ -143,13 +139,14 @@ __Mind maps & diagrams__
 
 __Utest the largest community of digital freelance software testers in the world__  
 Bug reports following each customer specification<br>
-Achieved Silver Rating 🥈 in Functional Testing, Web and Mobile (macOS and Android)<br>
+Achieved Proven Rating in Functional Testing, Web and Mobile (macOS and Android)<br>
 Constant communication with Test Team Lead and Test Engineers<br>
 Participated in many functional Testing Projects, Web/Mobile, for worldwide recognized companies<br>
 Google Suite, UTest Platform, Video Recording, Charles Log, Slack.
 
 __Atlassian Suite and TestRail Academy__  
-Proficient in Atlassian tools including Jira [cert](https://drive.google.com/file/d/1DlfKoTd1jj5qf_o_LNAErVsb70W7xHuG/view), Confluence [cert](https://drive.google.com/file/d/1ro6l6KbUBbLvysSjqZyUB0WKngc0m5yj/view), Trello, and Zephyr, having completed their fundamentals courses, and utilized them on an everyday basis while working on my presented projects.<br> 
+Proficient in Atlassian tools including Jira [cert](https://drive.google.com/file/d/1ZHDtnlFNMTH7dV_YutueZyveG8dWUcGQ/view?usp=sharing), Confluence [cert](https://drive.google.com/file/d/1LUg9Snrs5t_59p7X6KSdUDyp_Uf12hpS/view?usp=sharing), Trello, and Zephyr, having completed their fundamentals courses, and utilized them on an everyday basis while working on my presented projects.<br> 
+Agile in Jira [here](https://drive.google.com/file/d/1YdVDCUMuVhSgwf0p5hQim7M3XCYFsiEW/view?usp=sharing)<br>
 TestRail Fundamentals [here](https://drive.google.com/file/d/1QuT5FTT2e0L-0L6PMGh89LhlWMEO7cSD/view)<br>
 TestRail Administration & Customization [here](https://drive.google.com/file/d/1vg0LCgfLykIKKaoPIgc_YaOGqaxxJqYz/view)
 
