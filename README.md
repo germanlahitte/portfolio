@@ -150,9 +150,19 @@ Agile in Jira [here](https://drive.google.com/file/d/1YdVDCUMuVhSgwf0p5hQim7M3XC
 TestRail Fundamentals [here](https://drive.google.com/file/d/1QuT5FTT2e0L-0L6PMGh89LhlWMEO7cSD/view)<br>
 TestRail Administration & Customization [here](https://drive.google.com/file/d/1vg0LCgfLykIKKaoPIgc_YaOGqaxxJqYz/view)
 
-__QA Manual Testing from the beginning__  
-*online course by Hema Presad, Udemy*  
-An introductory course to fundamentals of software testing, including software development life cycle (SDLC), software testing life cycle (STLC), testing principles, and types of manual testing techniques. [Cerificate](https://drive.google.com/file/d/1uTZw7URhX83VZkQ4SqpZR7FysBUPhFfV/view?usp=share_link)
+__The Complete 2023 Software Testing Bootcamp__  [Cerificate](https://drive.google.com/file/d/1lzoG7MQIkSJXpTVDdTkXV5jwFT7VTbPq/view?usp=sharing)
+*online course by Tarek Roshdy, Udemy*  
+Topics Covered:
+-Manual Testing Basics [Tools used: Google Sheets-Trello-Testlink]
+-Agile Testing Basics [Tools used: Jira-Trello]
+-API & Webservice Testing [Tools used: postman]
+-Performance Testing [Tools used: JMeter & HP Loadrunner]
+-Freelance testing websites [Websites explained: utest-testerwork-test.io-bugfinders]
+-Manual Testing interview questions
+-Unit Testing [Tools used: JUnit5-Mockito]
+-Black Box Test Techniques [Techniques covered: Equivalence partitioning-Boundary value analysis-Decision Table Testing-State transition testing]
+-White Box Test Techniques [Statement Coverage-Decision Coverage-Condition Coverage-Path Coverage-MCDC-Loop Coverage]
+-Career Tips [ISTQB Certificates-Writing a professional CV-Software Testing Status in 2021] 
 
 __IDforIdeas Project__
 
