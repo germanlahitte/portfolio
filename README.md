@@ -17,7 +17,7 @@
 My technical training has fueled my passion for optimizing processes and paying close attention to detail. I am always eager to understand how things work, whether it's a complex system or a simple task. This curiosity drives me to continually improve my skills and apply my knowledge to help my team and organization achieve success.
 
 ## CV
-You can download my CV [HERE](https://drive.google.com/file/d/1kGJz2suXFe5FJj4xdc1uCzzNJHTwEz90/view?usp=sharing).
+You can download my [CV](https://drive.google.com/file/d/1-TTEqqZ7uofEbLdk8Meh1sVW_QVhRmFG/view?usp=sharing).
 
 ## Skills
 
