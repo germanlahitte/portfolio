@@ -116,9 +116,6 @@ __Mind maps & diagrams__
 * Diagrama Royal Canin Manual Testing Project [here](https://drive.google.com/file/d/1-MBgDFDUK0ScQJP3rkEewAh9vlzRaZcP/view).
 * Tasks Mindmap Royal Canin Manual Testing Project [here]() 
 
-### Postman API Manual Testing
-
-* Generating combinations for the form consisting of 3 fields, where possible values of the one field depend on the values of another field. See [the script for MS PICT]() and [the script for MS PICT]()
 
 ## Courses and Experience
 
