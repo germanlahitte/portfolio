@@ -103,18 +103,6 @@ __Mind maps & diagrams__
   * Test Scenarios, exploratory sessions and OOS in Trello [here](https://drive.google.com/file/d/1XM1i-ir84A7UZDbei6AhDOArmcrJ-zq7/view)
   * Test Cases in Zephyr for Registration and Login for diferent OS and Browsers [here](https://drive.google.com/file/d/1O5H1HVpcFuLeHjaUZBKAQC9WqET2Yiq_/view)
 
-### Test cases Traceability and Reports in TestLink
-
-- [The training webshop](http://automationpractice.com/) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
-
-- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
-
-
 ### Bug reports and work in Jira
 
 - Several bugs found on the [Royal Canin Shop web](https://shop.royalcanin.com/) and reported:
