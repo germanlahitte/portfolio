@@ -134,17 +134,16 @@ TestRail Administration & Customization [here](https://drive.google.com/file/d/1
 
 __The Complete 2023 Software Testing Bootcamp__  [Cerificate](https://drive.google.com/file/d/1lzoG7MQIkSJXpTVDdTkXV5jwFT7VTbPq/view?usp=sharing)
 *online course by Tarek Roshdy, Udemy*  
-Topics Covered:<br>
--Manual Testing Basics [Tools used: Google Sheets-Trello-Testlink]<br>
--Agile Testing Basics [Tools used: Jira-Trello]<br>
--API & Webservice Testing [Tools used: postman]<br>
--Performance Testing [Tools used: JMeter & HP Loadrunner]<br>
--Freelance testing websites [Websites explained: utest-testerwork-test.io-bugfinders]<br>
--Manual Testing interview questions<br>
--Unit Testing [Tools used: JUnit5-Mockito]<br>
--Black Box Test Techniques [Techniques covered: Equivalence partitioning-Boundary value analysis-Decision Table Testing-State transition testing]<br>
--White Box Test Techniques [Statement Coverage-Decision Coverage-Condition Coverage-Path Coverage-MCDC-Loop Coverage]<br>
--Career Tips [ISTQB Certificates-Writing a professional CV-Software Testing Status in 2021] 
+Topics Covered:<br />
+-Manual Testing Basics [Tools used: Google Sheets-Trello-Testlink]<br />
+-Agile Testing Basics [Tools used: Jira-Trello]<br />
+-API & Webservice Testing [Tools used: postman]<br />
+-Performance Testing [Tools used: JMeter & HP Loadrunner]<br />
+-Freelance testing websites [Websites explained: utest-testerwork-test.io-bugfinders]<br />
+-Unit Testing [Tools used: JUnit5-Mockito]<br />
+-Black Box Test Techniques [Techniques covered: Equivalence partitioning-Boundary value analysis-Decision Table Testing-State transition testing]<br />
+-White Box Test Techniques [Statement Coverage-Decision Coverage-Condition Coverage-Path Coverage-MCDC-Loop Coverage]<br />
+-Career Tips [ISTQB Certificates-Writing a professional CV-Software Testing Status in 2021]<br /> 
 
 __IDforIdeas Project__
 
