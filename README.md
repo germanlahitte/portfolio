@@ -106,10 +106,11 @@ __Mind maps & diagrams__
 ### Bug reports and work in Jira
 
 - Several bugs found on the [Royal Canin Shop web](https://shop.royalcanin.com/) and reported:
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1b8tccr5cBuWg7VIj2iXsWb34IAQFxGUe/view).
-  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1lfob2S_4zg_MUGOP6zXI3okA4b8t6Ke9/view).
-  * Bug #3. Check [the screenshot of the bug report in Jira]().
-  * Bug #4. Check [the screenshot of the bug report in Jira]().
+  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1etYzITKDWW7EKB9PEMNuBO3tI29qMdtD/view?usp=sharing).
+  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Q0vtbswYzMFHNRdYwNqps8xpEmhVcEQJ/view?usp=sharing).
+  * [Test Execution Summary](https://drive.google.com/file/d/1SKTw6u_Glj7dXCi4XktUOYakr5A0eSEG/view?usp=sharing).
+  * [Traceability Matrix](https://drive.google.com/file/d/1S_fj62FGGsoe6-Hs5UH5AfbKfpH0GRVV/view?usp=sharing)
+
 * Example of a Jira project IDforIdeas. Check [here](https://drive.google.com/file/d/1mcq8vZSgrIE4bCoMzXuOkBRUZMCzACWT/view).
 
 ### Mindmaps and diagrams
