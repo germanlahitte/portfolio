@@ -106,26 +106,25 @@ __Mind maps & diagrams__
 ### Bug reports and work in Jira
 
 - Several bugs found on the [Royal Canin Shop web](https://shop.royalcanin.com/) and reported:
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1etYzITKDWW7EKB9PEMNuBO3tI29qMdtD/view?usp=sharing).
-  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Q0vtbswYzMFHNRdYwNqps8xpEmhVcEQJ/view?usp=sharing).
-  * [Test Execution Summary](https://drive.google.com/file/d/1SKTw6u_Glj7dXCi4XktUOYakr5A0eSEG/view?usp=sharing).
+  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1etYzITKDWW7EKB9PEMNuBO3tI29qMdtD/view?usp=sharing)
+  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Q0vtbswYzMFHNRdYwNqps8xpEmhVcEQJ/view?usp=sharing)
+  * [Test Execution Summary](https://drive.google.com/file/d/1SKTw6u_Glj7dXCi4XktUOYakr5A0eSEG/view?usp=sharing)
   * [Traceability Matrix](https://drive.google.com/file/d/1S_fj62FGGsoe6-Hs5UH5AfbKfpH0GRVV/view?usp=sharing)
 
-* Example of a Jira project IDforIdeas. Check [here](https://drive.google.com/file/d/1mcq8vZSgrIE4bCoMzXuOkBRUZMCzACWT/view).
+* Example of a Jira project IDforIdeas. Check [here](https://drive.google.com/file/d/1mcq8vZSgrIE4bCoMzXuOkBRUZMCzACWT/view)
 
 ### Mindmaps and diagrams
-* Diagrama Royal Canin Manual Testing Project [here](https://drive.google.com/file/d/1-MBgDFDUK0ScQJP3rkEewAh9vlzRaZcP/view).
-* Tasks Mindmap Royal Canin Manual Testing Project [here]() 
+* Diagrama Royal Canin Manual Testing Project [here](https://drive.google.com/file/d/1-MBgDFDUK0ScQJP3rkEewAh9vlzRaZcP/view)
 
 
 ## Courses and Experience
 
-__Utest the largest community of digital freelance software testers in the world__  
+__uTest: the largest community of digital freelance software testers in the world__  
 Bug reports following each customer specification<br>
 Achieved Proven Rating in Functional Testing, Web and Mobile (macOS and Android)<br>
 Constant communication with Test Team Lead and Test Engineers<br>
 Participated in many functional Testing Projects, Web/Mobile, for worldwide recognized companies<br>
-Google Suite, UTest Platform, Video Recording, Charles Log, Slack.
+Google Suite, UTest Platform, Video Recording, Charles Proxy, Slack.
 
 __Atlassian Suite and TestRail Academy__  
 Proficient in Atlassian tools including [Jira](https://drive.google.com/file/d/1ZHDtnlFNMTH7dV_YutueZyveG8dWUcGQ/view?usp=sharing), [Confluence](https://drive.google.com/file/d/1LUg9Snrs5t_59p7X6KSdUDyp_Uf12hpS/view?usp=sharing), [Trello](https://drive.google.com/file/d/1xYw_Z_kId5PPAghiJRy15DYeZwt2dyaR/view?usp=sharing), and Zephyr, having completed their fundamentals courses, and utilized them on an everyday basis while working on my presented projects.<br> 
@@ -133,7 +132,7 @@ Agile in Jira [here](https://drive.google.com/file/d/1YdVDCUMuVhSgwf0p5hQim7M3XC
 TestRail Fundamentals [here](https://drive.google.com/file/d/1QuT5FTT2e0L-0L6PMGh89LhlWMEO7cSD/view)<br>
 TestRail Administration & Customization [here](https://drive.google.com/file/d/1vg0LCgfLykIKKaoPIgc_YaOGqaxxJqYz/view)
 
-__The Complete 2023 Software Testing Bootcamp__  [Cerificate](https://drive.google.com/file/d/1lzoG7MQIkSJXpTVDdTkXV5jwFT7VTbPq/view?usp=sharing)
+__The Complete 2023 Software Testing Bootcamp__  [Cerificate](https://drive.google.com/file/d/1lzoG7MQIkSJXpTVDdTkXV5jwFT7VTbPq/view?usp=sharing)<br />
 *online course by Tarek Roshdy, Udemy*  
 Topics Covered:<br />
 -Manual Testing Basics [Tools used: Google Sheets-Trello-Testlink]<br />
