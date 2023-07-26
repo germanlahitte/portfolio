@@ -88,11 +88,21 @@ __Mind maps & diagrams__
 
 ## Projects
 
+### QA Tester
+
 ### Manual testing 
   * As a manual tester for the [Royal Canin e-commerce](https://shop.royalcanin.com/), I performed comprehensive testing on key areas of the website, including login, homepage, product listing and detail pages, user interface, cart, and checkout. Through my testing efforts, I was able to identify and report defects, ensuring that the website was functioning optimally and providing a seamless and error-free shopping experience for customers. My testing methodology adhered to industry-standard testing practices, ensuring the highest quality of testing for the website.
   
 ### Colabry Encyclopedia (IDforIdeas)
   * As a member of the Quality Assurance team for a collaborative encyclopedia project, I was involved in the end-to-end software development lifecycle (SDLC). I contributed to the planning, design, development, testing, and deployment phases of the project, ensuring that the software was of high quality and met the projects objectives. I collaborated closely with other team members, including developers, project managers, and stakeholders, to identify and prioritize requirements, design test cases, execute tests, and report defects. My efforts helped ensure that the encyclopedia was reliable, functional, and met the needs of its users. This project also provided me with valuable experience in working collaboratively with cross-functional teams and following the SDLC processes.
+
+### Functional Analyst
+
+### Ship Manager System
+  * Throughout the project, I was responsible for bridging the gap between business requirements and technical implementation, ensuring the successful delivery of a user-centric and efficient platform. My work began with comprehensive stakeholder engagement, actively gathering and analyzing business needs and objectives related to shipment management. Throughout the development lifecycle, I remained committed to delivering exceptional results. My proactive approach to problem-solving allowed me to identify and resolve potential roadblocks promptly, ensuring the project adhered to deadlines and met quality benchmarks. I contributed to the creation of an [intuitive and user-friendly interface](https://drive.google.com/file/d/1Jrkt8YK39ol0-Hdr3Hca9e_B4Ynycydu/view?usp=sharing), allowing users to easily manage shipments, track orders, and monitor delivery status.
+
+### Automated Drop-off Store
+  * I played a pivotal role in the development of an [innovative automated drop off store](https://drive.google.com/file/d/1KjEuh9p05lTLatve3hDTi-A6mtBk2zbj/view?usp=sharing), revolutionizing the way customers interact with our services. Throughout the project, my dedication to understanding business requirements and translating them into practical solutions contributed to the successful realization of a cutting-edge and user-friendly store. From the project's inception, I recognized the importance of providing an integral solution that encompassed every aspect of the drop off store. Collaborating closely with stakeholders, I delved deep into understanding their needs, paving the way for comprehensive functional specifications that addressed diverse requirements.
 
 ## Examples of my work
 
