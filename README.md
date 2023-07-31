@@ -1,4 +1,4 @@
-# Portfolio GL :raising_hand_man:
+# QA Portfolio GL :raising_hand_man:
 - [About me :speech_balloon:](#about-me)
 - [CV  :clipboard:](#cv)
 - [Skills :ninja:](#skills)
