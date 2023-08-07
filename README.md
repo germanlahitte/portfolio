@@ -139,8 +139,7 @@ Google Suite, UTest Platform, Video Recording, Charles Proxy, Slack.
 __Atlassian Suite and TestRail Academy__  
 Proficient in Atlassian tools including [Jira](https://drive.google.com/file/d/1ZHDtnlFNMTH7dV_YutueZyveG8dWUcGQ/view?usp=sharing), [Confluence](https://drive.google.com/file/d/1LUg9Snrs5t_59p7X6KSdUDyp_Uf12hpS/view?usp=sharing), [Trello](https://drive.google.com/file/d/1xYw_Z_kId5PPAghiJRy15DYeZwt2dyaR/view?usp=sharing), and Zephyr, having completed their fundamentals courses, and utilized them on an everyday basis while working on my presented projects.<br> 
 Agile in Jira [here](https://drive.google.com/file/d/1YdVDCUMuVhSgwf0p5hQim7M3XCYFsiEW/view?usp=sharing)<br>
-TestRail Fundamentals [here]()<br>
-TestRail Administration & Customization [here]()
+TestRail Fundamentals [here](https://drive.google.com/file/d/1M2VHM3WieuRAA6PK--P7lndD_VZJ2WZl/view?usp=sharing)<br>
 
 __The Complete 2023 Software Testing Bootcamp__  [Cerificate](https://drive.google.com/file/d/1lzoG7MQIkSJXpTVDdTkXV5jwFT7VTbPq/view?usp=sharing)<br />
 *online course by Tarek Roshdy, Udemy*  
